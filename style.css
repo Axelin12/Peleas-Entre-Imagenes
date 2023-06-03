@@ -1,0 +1,33 @@
+body {
+    background-image:url("MATRIX.webp") ;
+    color: rgb(0, 162, 212);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+p,b{
+    background-color:rgb(47, 255, 57);
+}
+b{
+    font-size: 20px;
+}
+.result_object,.precision_object{
+    background-color: aquamarine;
+    color: blue;
+}
+hr{
+    border-top: 5px solid greenyellow;
+}
+#camera{
+    border: 2px dashed rgba(34, 246, 246, 0.922);
+    border-radius: 20px;
+    width: 350px;
+    height:300px ;
+}
+#results{
+    border: 4px dotted rgba(34, 246, 246, 0.922);
+    border-radius: 20px;
+    width: 350px;
+    height:300px ;
+}
